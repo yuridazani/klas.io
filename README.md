@@ -1,6 +1,6 @@
 # Klas.io - Portal Pengumuman Kelas Digital
 
-![Klas.io Screenshot](https://via.placeholder.com/800x450.png/000000/FFFFFF/?text=Klas.io+App+Screenshot)
+![Klas.io Screenshot](https://github.com/yuridazani/klas.io/blob/main/img/Screenshot_3-8-2025_10354_yuridazani.github.io.jpeg)
 
 ## 📖 Tentang Proyek
 
